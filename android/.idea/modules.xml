@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Accubits.iml" filepath="$PROJECT_DIR$/.idea/modules/Accubits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Accubits.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Accubits.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-913216717/Accubits.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-913216717/Accubits.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1175207889/Accubits.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1175207889/Accubits.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/389630856/Accubits.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/389630856/Accubits.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-604226156/Accubits.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-604226156/Accubits.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1424466417/Accubits.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1424466417/Accubits.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-568947895/Accubits.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-568947895/Accubits.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
